@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Exercise 01: Business events'
-    module: 'Module: any'
+    module: 'Module: any' test
 ---
 
 
